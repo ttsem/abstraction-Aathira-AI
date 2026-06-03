@@ -28,13 +28,19 @@ public class Scanner : IScanner
 
 public class PrintScanner : IPrinter, IScanner
 {
-    private readonly Printer _printer;
-    private readonly Scanner _scanner;
+    private readonly IPrinter _printer;
+    private readonly IScanner _scanner;
 
     public PrintScanner()
     {
         _printer = new Printer();
         _scanner = new Scanner();
+    }
+
+    public PrintScanner(IPrinter printer, IScanner scanner)
+    {
+        _printer = printer;
+        _scanner = scanner;
     }
 
     public void Print(int jobId)
