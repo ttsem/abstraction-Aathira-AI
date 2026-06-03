@@ -1,0 +1,15 @@
+/workspaces/abstraction-Aathira-AI/obj/Debug/net10.0/TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/abstraction-Aathira-AI/obj/Debug/net10.0/TaskManager.AssemblyInfoInputs.cache
+/workspaces/abstraction-Aathira-AI/obj/Debug/net10.0/TaskManager.AssemblyInfo.cs
+/workspaces/abstraction-Aathira-AI/obj/Debug/net10.0/TaskManager.csproj.CoreCompileInputs.cache
+/workspaces/abstraction-Aathira-AI/obj/Debug/net10.0/TaskManager.sourcelink.json
+/workspaces/abstraction-Aathira-AI/bin/Debug/net10.0/TaskManager
+/workspaces/abstraction-Aathira-AI/bin/Debug/net10.0/TaskManager.deps.json
+/workspaces/abstraction-Aathira-AI/bin/Debug/net10.0/TaskManager.runtimeconfig.json
+/workspaces/abstraction-Aathira-AI/bin/Debug/net10.0/TaskManager.dll
+/workspaces/abstraction-Aathira-AI/bin/Debug/net10.0/TaskManager.pdb
+/workspaces/abstraction-Aathira-AI/obj/Debug/net10.0/TaskManager.dll
+/workspaces/abstraction-Aathira-AI/obj/Debug/net10.0/refint/TaskManager.dll
+/workspaces/abstraction-Aathira-AI/obj/Debug/net10.0/TaskManager.pdb
+/workspaces/abstraction-Aathira-AI/obj/Debug/net10.0/TaskManager.genruntimeconfig.cache
+/workspaces/abstraction-Aathira-AI/obj/Debug/net10.0/ref/TaskManager.dll
